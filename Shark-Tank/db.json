@@ -1,0 +1,173 @@
+{
+  "pitches": [
+    {
+      "id": "4",
+      "title": "ghndfkgn",
+      "price": "26",
+      "founder": "Anish Basu Roy",
+      "category": "Food",
+      "image": "https://m.media-amazon.com/images/I/81BHMCJnp9L._SX679_PIbundle-5,TopRight,0,0_AA679SH20_.jpg"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81UAsQsdp5L._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 24,
+      "percentage": 23,
+      "description": "Buy The Sass Bar Brand Products Online at best Price in India. Shop 100% organic and Natural products ",
+      "founder": "Rishika Nayak",
+      "category": "Personal Care",
+      "year": "20-01-2014",
+      "title": "The Saas Bar ",
+      "id": "5"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61RjUgGy04L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 52,
+      "percentage": 25,
+      "description": "Just over a year old, Haryana-based Hammer founded by Rohit Nandwani has streamlined its product range keeping with the shift to wireless audio tech. It is now focused on strengthening its D2C game.",
+      "founder": "Rohit Nandwani",
+      "category": "Electronics",
+      "year": "21-03-2012",
+      "title": "Hammer",
+      "id": "6"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51DUbOFXgHL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 35,
+      "percentage": 5,
+      "description": "'Auli Lifestyle' has been conceptualised and created by the effervescent Aishwarya Biswas. Her passion for wellness essentials",
+      "founder": "Aishwarya Biswas",
+      "category": "Personal Care",
+      "year": "14-06-2016",
+      "title": "auli Lifestyle",
+      "id": "7"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71Wa7-cOUqL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 19,
+      "percentage": 2.5,
+      "description": "Looking for Quirky shoes & clothes? Check out The Quirky Naari! Explore a range of LED shoes & Party wear sneakers that will make you stand out",
+      "founder": "Malvica Saxena",
+      "category": "Fashion",
+      "year": "14-08-2021",
+      "title": "Quirky Naari",
+      "id": "8"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png/v1/crop/x_237,y_352,w_1328,h_1331/fill/w_614,h_614,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png",
+      "price": 54,
+      "percentage": 12,
+      "description": "Asia's first and only custom made electric kick scooter operator.World’s first in-premises electric vehicle hybrid-subscription fleet service.",
+      "founder": "Rutvij Dasadia ",
+      "category": "Education",
+      "year": "21-05-2021",
+      "title": "Booz scooters",
+      "id": "9"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/915WVrOntJL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 45,
+      "percentage": 25,
+      "description": "Get uniquely delicious and flavorful pickles and chutneys made by expert mom-chefs of Mithilanchal, Bihar. No Preservatives, No Additives, No Colors. Seasonal Fruits and Vegetables blended in locally sourced spices and mustard oil. ",
+      "founder": "Kalpana Jha ",
+      "category": "Food",
+      "year": "24-12-2018",
+      "title": "JhaJi Achaar",
+      "id": "10"
+    },
+    {
+      "image": "https://www.cocofit.in/images/Picture4_large.png",
+      "price": 25,
+      "percentage": 3.5,
+      "description": "We strive, respect and work hard every second taking our demigod to a new level with a delicious serving that would be a life changing experience.",
+      "founder": "Sashi Kanth V",
+      "category": "Food",
+      "year": "17-11-2017",
+      "title": "Cocofit",
+      "id": "11"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+      "price": 26,
+      "percentage": 2.56,
+      "description": "Falhari is India’s #1 fresh fruit products brand with an extensive range of delightful, made-to-order recipes of Salads, Juices, Smoothies, Lassis, Yoghurts, and more",
+      "founder": "Rahul Shankar Bhardwaj",
+      "category": "Food",
+      "year": "20-12-2021",
+      "title": "Falhari",
+      "id": "13"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOkeAS5PgCBISOPRp_mZJuIxJ74IyCAlP_A&usqp=CAU",
+      "price": 50,
+      "percentage": 2,
+      "description": "We push our boundaries every day, we’re here to innovate and inspire a new generation of sustainable sanitation technology. PadCare isn’t a startup, it’s a revolution.",
+      "founder": "Ajinkya Dhariya",
+      "category": "Electronics",
+      "year": "07-09-2022",
+      "title": "Padcare Lab",
+      "id": "15"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 57,
+      "percentage": 2,
+      "description": "aradyes is a semi-permanent hair color brand. She introduced the brand by identifying a gap in the market. Banking on her family business of dyes and intermediates, she teamed up with professionals and began R&D to formulate hair colors in their lab.",
+      "founder": "Yushika Jolly,",
+      "category": "Personal Care",
+      "year": "01-07-2021",
+      "title": "Paradyes",
+      "id": "16"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/610d1RfgHDL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 100,
+      "percentage": 1.5,
+      "description": "A small device that can be attached to any normal stethoscope and the stethoscope will become a digital one. Using this device it can reduce background noise, better audio, and visual clarity, and after all, one can get the live stream of data. ",
+      "founder": "Adarsha K",
+      "category": "Electronics",
+      "year": "12-22-2014",
+      "title": "AyuSynk",
+      "id": "17"
+    },
+    {
+      "image": "https://www.primebook.in/uploads/feature/1675677835_d887598e98a67da677f0.png",
+      "price": 75,
+      "percentage": 1.5,
+      "description": "Primebook 4G unites everything you need to elevate your learning. Meet the first Made In India 4G laptop, engineered with cutting-edge technology, based on the Android 11 Ecosystem, unlocking limitless learning opportunities.",
+      "founder": "Chitranshu Mahant",
+      "category": "Tech",
+      "title": "Primebook",
+      "year": "14-02-2020",
+      "id": "21"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61pq3ae629L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 45,
+      "percentage": 10,
+      "description": "HoloKitab is an edTech platform that enables book publishers and manufacturers from various industries to deliver Augmented Reality content to their users in a cost effective way.",
+      "founder": "Dipanshu Bajaj and Nikhil Miglani",
+      "category": "Education",
+      "year": "15-04-2020",
+      "title": "HoloKitab",
+      "id": "22"
+    },
+    {
+      "id": "10e1",
+      "title": "realme",
+      "price": "3110.14",
+      "founder": "zsgszg",
+      "category": "phone",
+      "image": "data:image/jpeg;base64,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"
+    }
+  ],
+  "cart": [
+    {
+      "id": "f3ba",
+      "image": " https://m.media-amazon.com/images/I/81BHMCJnp9L._SX679_PIbundle-5,TopRight,0,0_AA679SH20_.jpg",
+      "title": "Anish Basu Roy",
+      "price": "                26",
+      "category": " Food",
+      "founder": " ghndfkgn"
+    }
+  ]
+}
